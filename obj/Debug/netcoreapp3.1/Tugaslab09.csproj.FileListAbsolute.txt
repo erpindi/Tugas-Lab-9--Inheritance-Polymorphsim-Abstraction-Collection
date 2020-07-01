@@ -1,0 +1,13 @@
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\TugasLab9\Tugaslab09\Tugaslab09\bin\Debug\netcoreapp3.1\Tugaslab09.exe
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\TugasLab9\Tugaslab09\Tugaslab09\bin\Debug\netcoreapp3.1\Tugaslab09.deps.json
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\TugasLab9\Tugaslab09\Tugaslab09\bin\Debug\netcoreapp3.1\Tugaslab09.runtimeconfig.json
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\TugasLab9\Tugaslab09\Tugaslab09\bin\Debug\netcoreapp3.1\Tugaslab09.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\TugasLab9\Tugaslab09\Tugaslab09\bin\Debug\netcoreapp3.1\Tugaslab09.dll
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\TugasLab9\Tugaslab09\Tugaslab09\bin\Debug\netcoreapp3.1\Tugaslab09.pdb
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\TugasLab9\Tugaslab09\Tugaslab09\obj\Debug\netcoreapp3.1\Tugaslab09.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\TugasLab9\Tugaslab09\Tugaslab09\obj\Debug\netcoreapp3.1\Tugaslab09.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\TugasLab9\Tugaslab09\Tugaslab09\obj\Debug\netcoreapp3.1\Tugaslab09.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\TugasLab9\Tugaslab09\Tugaslab09\obj\Debug\netcoreapp3.1\Tugaslab09.AssemblyInfo.cs
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\TugasLab9\Tugaslab09\Tugaslab09\obj\Debug\netcoreapp3.1\Tugaslab09.dll
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\TugasLab9\Tugaslab09\Tugaslab09\obj\Debug\netcoreapp3.1\Tugaslab09.pdb
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\TugasLab9\Tugaslab09\Tugaslab09\obj\Debug\netcoreapp3.1\Tugaslab09.genruntimeconfig.cache
